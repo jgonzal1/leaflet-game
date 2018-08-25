@@ -28,4 +28,4 @@ Javier González Berenguel
 Update dinamically the points with onClick events
 
 ## License
-MIT
+MIT. Commercial under agreement
