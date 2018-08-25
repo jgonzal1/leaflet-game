@@ -8,7 +8,7 @@ options(shiny.port=4500)
 M = read.csv("./points.csv", sep=",", header=FALSE)
 quake <- as.data.frame(
   cbind(
-    M[1:1000,1], M[1:1000,2], quakes[,4]
+    M[1:1000,1], M[1:1000,2], quakes[,4]/1.2
   )
 )
 colnames(quake) = c("lat","long","mag")
