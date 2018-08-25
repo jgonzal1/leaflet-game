@@ -1,10 +1,8 @@
 # leaflet-game
-R shiny+leaflet game with OSM &amp; CAT WMSs
-
 ## Indice
 **Table of Contents**
 
-1. [Abstract](#abstract)
+1. [Summary](#summary)
 2. [Motivation](#motivation)
 3. [API Reference](#api_reference)
 4. [Tests](#tests)
@@ -12,7 +10,8 @@ R shiny+leaflet game with OSM &amp; CAT WMSs
 6. [ToDo](#todo)
 7. [License](#license)
 
-## Abstract
+## Summary
+R shiny+leaflet game with OSM &amp; CAT WMSs
 
 ## Motivation
 
